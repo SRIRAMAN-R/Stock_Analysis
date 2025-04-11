@@ -84,3 +84,21 @@ streamlit run app.py
 📷 Streamlit Dashboard Preview
 Here’s a sneak peek of the interactive dashboard built with Streamlit:
 
+![image](https://github.com/user-attachments/assets/2bb4a09b-27bf-4c7b-b9d5-d046511b6b2e)
+![image](https://github.com/user-attachments/assets/893e2dba-54ca-4eaa-a553-299e205d9167)
+
+
+📊 Power BI Visualization
+The same data is visualized using Power BI for deeper analysis and business-ready reports:
+
+![image](https://github.com/user-attachments/assets/b8183699-b6c0-4c7f-8a73-ce185d1a2fa0)
+![image](https://github.com/user-attachments/assets/7efcd7bf-163b-481d-aa54-6a1fd1ee4ce9)
+![image](https://github.com/user-attachments/assets/e0fd0a20-bdb1-4d7a-b34a-4fbbe6c5ff2c)
+![image](https://github.com/user-attachments/assets/3842c58e-e100-4127-9340-758d0fd1c432)
+
+
+
+
+
+
+
